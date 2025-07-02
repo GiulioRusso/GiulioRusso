@@ -12,6 +12,12 @@
 > Computer Vision <br>
 > Research <br>
 
+`giulio@github:~$ ls -l ~/projects/top3`
+
+> -rw-r--r-- [NMS-3D](https://github.com/GiulioRusso/NMS-3D) pypi package for NMS in 3D coords system<br>
+> -rw-r--r-- [Ni-Dataset](https://github.com/GiulioRusso/Ni-Dataset) pypi package for 3D CTA/MRI management <br>
+> -rw-r--r-- [GravityNet](https://github.com/cirorusso2910/GravityNet) contributors to novel anchor-based detector <br>
+
 `giulio@github:~$ top -n 3 -b | grep "now"`
 > Building iOS apps <br>
 > Explore LLMs <br>
@@ -19,10 +25,10 @@
 
 `giulio@github:~$ languages --top`
 
-> Fetching most used languages from GitHub...
-> ████████████░░ Python <br>
-> ████████░░░░░░ C++<br>
-> ██████░░░░░░░░ MATLAB<br>
+> Fetching most used languages from GitHub... <br>
+> ████████████ Python <br>
+> ████████ C++<br>
+> ██████ MATLAB<br>
 
 `giulio@github:~$ ping -c 2 connections`
 > [Linkedin](https://linkedin.com/in/russogiulio) <br>

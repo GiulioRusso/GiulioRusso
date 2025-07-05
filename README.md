@@ -4,7 +4,7 @@
 
 `giulio@github:~$ cat bio.txt`
 
-> I'm an AI engineer and researcher. I just want to make people's life easier.
+> I'm an AI engineer and researcher. I just want to write good code.
 
 `giulio@github:~$ ls -la interests`
 

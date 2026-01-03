@@ -3,7 +3,7 @@
 `Interests:`
 > AI <br>
 > Computer Vision <br>
-> Research <br>
+> Software Embedding <br>
 
 `Top projects:`
 > [NMS-3D](https://github.com/GiulioRusso/NMS-3D) pypi package for NMS in 3D coords system<br>

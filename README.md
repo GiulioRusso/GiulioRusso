@@ -8,6 +8,9 @@
 > [Ni-Dataset](https://github.com/GiulioRusso/Ni-Dataset) pypi package for 3D CTA/MRI management <br>
 > [GravityNet](https://github.com/cirorusso2910/GravityNet) contributors to novel anchor-based detector <br>
 
+`Contributions:`
+> - [ed-donner/agents](https://github.com/ed-donner/agents) <br>
+
 `Connections:`
 > [Linkedin](https://linkedin.com/in/russogiulio) <br>
 > [GitHub](https://github.com/GiulioRusso) <br>

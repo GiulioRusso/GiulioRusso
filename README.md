@@ -9,7 +9,7 @@
 > [5G Power Optimization](https://github.com/GiulioRusso/5G-power-optimization) optimization in complex antenna scenarios <br>
 
 `Contributions:`
-> - [GravityNet](https://github.com/cirorusso2910/GravityNet) novel anchor-based detector <br>
+> - [GravityNet](https://github.com/cirorusso2910/GravityNet) novel anchor-based detector in Computer Vision<br>
 > - [ed-donner/agents](https://github.com/ed-donner/agents) agent course <br>
 
 `Connections:`

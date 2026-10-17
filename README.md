@@ -1,7 +1,4 @@
-> 👋 Hey there, I'm Giulio Russo. I'm an AI engineer and researcher.
-
-`Interests:`
-> AI and Software Embedding <br>
+> 👋 ML Engineer and AI Researcher for signal intelligence, edge AI and medical imaging.
 
 `Top projects:`
 > [NMS-3D](https://github.com/GiulioRusso/NMS-3D) pypi package for NMS in 3D coords system<br>
@@ -15,3 +12,4 @@
 `Connections:`
 > [Linkedin](https://linkedin.com/in/russogiulio) <br>
 > [GitHub](https://github.com/GiulioRusso) <br>
+> [ORCID](https://orcid.org/0009-0006-5083-7548)

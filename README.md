@@ -2,8 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./header.svg">
   <img alt="Giulio Russo — ML Engineer and AI Researcher. Signal intelligence, Edge AI, Medical imaging." src="./header.svg" width="100%">
 </picture>
-
-
+<br>
 
 **Open source**
 
@@ -14,6 +13,6 @@
 
 - [Window self-attention and 3D volumetric refinement for LVO detection](https://doi.org/10.1016/j.patrec.2025.10.019): *Pattern Recognition Letters*, 2026
 - [A two-stage deep learning approach for LVO detection and volume assessment](https://doi.org/10.1109/CBMS65348.2025.00166): *IEEE CBMS*, 2025
-- All publications on [ORCID](https://orcid.org/0009-0006-5083-7548)
 
-[LinkedIn](https://linkedin.com/in/russogiulio) · [ORCID](https://orcid.org/0009-0006-5083-7548)
+All publications on [ORCID](https://orcid.org/0009-0006-5083-7548)
+Let's connect on [LinkedIn](https://linkedin.com/in/russogiulio)

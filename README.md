@@ -14,5 +14,5 @@
 - [Window self-attention and 3D volumetric refinement for LVO detection](https://doi.org/10.1016/j.patrec.2025.10.019): *Pattern Recognition Letters*, 2026
 - [A two-stage deep learning approach for LVO detection and volume assessment](https://doi.org/10.1109/CBMS65348.2025.00166): *IEEE CBMS*, 2025
 
-All publications on [ORCID](https://orcid.org/0009-0006-5083-7548)
-Let's connect on [LinkedIn](https://linkedin.com/in/russogiulio)
+> All publications on [ORCID](https://orcid.org/0009-0006-5083-7548) <br>
+> Let's connect on [LinkedIn](https://linkedin.com/in/russogiulio) <br>

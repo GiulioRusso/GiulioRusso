@@ -1,7 +1,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./header.svg">
-  <img alt="Giulio Russo — ML Engineer and AI Researcher. Signal intelligence, Edge AI, Medical imaging." src="./header-light.svg" width="100%">
+  <img alt="Giulio Russo — ML Engineer and AI Researcher. Signal intelligence, Edge AI, Medical imaging." src="./header.svg" width="100%">
 </picture>
+
 
 
 **Open source**

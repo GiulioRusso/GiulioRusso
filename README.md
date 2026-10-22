@@ -1,15 +1,17 @@
-> 👋 ML Engineer and AI Researcher for signal intelligence, edge AI and medical imaging.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header.svg">
+  <img alt="Giulio Russo — ML Engineer and AI Researcher. Signal intelligence, Edge AI, Medical imaging." src="./header-light.svg" width="100%">
+</picture>
 
-`Top projects:`
-> [NMS-3D](https://github.com/GiulioRusso/NMS-3D) pypi package for Non-Maximum Suppression in 3D coords system<br>
-> [Ni-Dataset](https://github.com/GiulioRusso/Ni-Dataset) pypi package for 3D CTA/MRI management <br>
-> [5G Power Optimization](https://github.com/GiulioRusso/5G-power-optimization) optimization in complex antenna scenarios <br>
+**Open source**
 
-`Contributions:`
-> - [GravityNet](https://github.com/cirorusso2910/GravityNet) novel anchor-based detector in Computer Vision<br>
-> - [ed-donner/agents](https://github.com/ed-donner/agents) agent course <br>
+- [**nidataset**](https://github.com/GiulioRusso/Ni-Dataset): NIfTI toolkit for CT/MRI deep-learning pipelines · `pip install nidataset`
+- [**nms-3d**](https://github.com/GiulioRusso/NMS-3D): 3D non-maximum suppression for volumetric detection · `pip install nms-3d`
 
-`Connections:`
-> Let's connect at [Linkedin](https://linkedin.com/in/russogiulio) <br>
-> Explore other repos at [GitHub](https://github.com/GiulioRusso) <br>
-> Look at my publications at [ORCID](https://orcid.org/0009-0006-5083-7548) <br>
+**Publications**
+
+- [Window self-attention and 3D volumetric refinement for LVO detection](https://doi.org/10.1016/j.patrec.2025.10.019): *Pattern Recognition Letters*, 2026
+- [A two-stage deep learning approach for LVO detection and volume assessment](https://doi.org/10.1109/CBMS65348.2025.00166): *IEEE CBMS*, 2025
+- All publications on [ORCID](https://orcid.org/0009-0006-5083-7548)
+
+[LinkedIn](https://linkedin.com/in/russogiulio) · [ORCID](https://orcid.org/0009-0006-5083-7548)
